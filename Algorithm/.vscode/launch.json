@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lt_69_sqrt",
+            "request": "launch",
+            "mainClass": "lt_69_sqrt",
+            "projectName": "Algorithm_4149a732"
+        }
+    ]
+}
