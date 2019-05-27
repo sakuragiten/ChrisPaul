@@ -1,0 +1,6 @@
+
+
+#define LIST_INIT_SIZE 100
+#define LISTINCREAMENT 10
+
+

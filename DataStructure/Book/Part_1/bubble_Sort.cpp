@@ -1,7 +1,6 @@
 #include <iostream>
 
 
-
 void bubble_sort(int a[], int n);
 
 int main()
@@ -14,6 +13,9 @@ int main()
     {
         printf(" %d", a[i]);
     }
+
+    
+    
     
 }
 
